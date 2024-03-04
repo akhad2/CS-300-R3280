@@ -1,1 +1,7 @@
 # CS-300-R3280
+
+1. I had problem getting the course to load correctly and check the format. The next error I made was when the program wouldn't seperate by comma and output the entire text file when specified to output the specified course only.
+2. First my approach was to write everything under main then seperate into seperate classes. However, I deleted most of work and restarted with an approach to keep everything seperated. The data structure is very critical, as in this case there was assumed that there will be removal, insertion, and search assuming ordered therefore went with binary tree. To further improve, more detail and hashing in the search if given more complex data would be benefitial.
+3. As previously stated, working with each function seperated really helps, as you can focus on a task instead of manuevering the entire program. Bug finding is also reduced as you can be certain other functions work and which do not.
+4. It improved my approach as it opened my eyes to how there are multiple approaches and while each may work with small dataset, the larger it gets the inefficiencies can cause the program to be fast or very slow. For example, if the dataset was for a large company all sales csv file, searching one by one from beginning would take hours to days making the program pointless. A good approach that optimizes efficiency and speed is necessary.
+5. The program helped me keep my work maintainable as each part is seperate and I can be certain when experimenting and changing the code. 
